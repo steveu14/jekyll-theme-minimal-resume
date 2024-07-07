@@ -6,7 +6,8 @@ url: "https://steveu14.github.io" # the base hostname & protocol for your site e
 
 # User settings
 username: Steven Wu
-user_description: I'm a Data Scientist
+user_description: 
+user_title: Data Scientist
 email: stevenwu3084@gmail.com
 # twitter_username: lorem_ipsum
 linkedin_username: stevenwu14
